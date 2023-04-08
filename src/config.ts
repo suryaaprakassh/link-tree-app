@@ -24,7 +24,7 @@ const config = {
       key: "twitter",
       label: "Twitter",
       iconUrl: Twitter,
-      redirectUrl: "https://twitter.com/SpheronHQ",
+      redirectUrl: "https://twitter.com/suryaaprakassh",
     },
     {
       key: "linkedin",
@@ -54,7 +54,7 @@ const config = {
       key: "github",
       label: "GitHub",
       iconUrl: GitHub,
-      redirectUrl: "https://github.com/spheronFdn/",
+      redirectUrl: "https://github.com/suryaaprakassh/",
     },
   ],
 };
